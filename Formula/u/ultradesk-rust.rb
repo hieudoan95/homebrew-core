@@ -1,8 +1,8 @@
 class UltradeskRust < Formula
   desc "Remote desktop client and host compatible with UltraViewer"
   homepage "https://github.com/dtrh95/ultradesk"
-  url "https://github.com/dtrh95/ultradesk/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "14973c9f49515086de20d56ae940f1e2b52b3436d525a8bb8e1352bfe9866438"
+  url "https://github.com/dtrh95/ultradesk/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "0332a77b6b954c8b363bcfd70b3365aa412388db0db432881739f5c6d28c8765"
   license "MIT"
   head "https://github.com/dtrh95/ultradesk.git", branch: "main"
 
